@@ -12,7 +12,6 @@ Just Similiar to that. It is only a single page UI.
 
 ![Screenshots](../master/myFolder/image.png)
 
-![](../master/myfolder/short.gif)
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
